@@ -59,9 +59,9 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
-Krish Nalam
-Chann Singh Rana
-Ivan Xie
-Jiayi Yang
-Petru Codrescu
-Yihang Xu
+* Krish Nalam
+* Chann Singh Rana
+* Ivan Xie
+* Jiayi Yang
+* Petru Codrescu
+* Yihang Xu
