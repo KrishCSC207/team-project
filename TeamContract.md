@@ -62,3 +62,4 @@ Team Member Signatures:
 Krish Nalam
 Chann Singh Rana
 Ivan Xie
+Jiayi Yang
